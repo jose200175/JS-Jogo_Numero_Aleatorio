@@ -40,7 +40,7 @@ function gerarNumeroAleatorio() {
     console.log(numeroEscolhido);
     let quatidadeDeElementosNaLista = listaDeNumeroSorteados.length;
 
-    if (quatidadeDeElementosNaLista == numeroLimite){
+    if (quatidadeDeElementosNaLista == 3){
         listaDeNumeroSorteados = [];
     }
 
